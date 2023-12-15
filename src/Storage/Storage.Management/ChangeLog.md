@@ -18,6 +18,8 @@
         - Additional information about change #1
 -->
 ## Upcoming Release
+
+## Version 6.1.0
 * Supprted filter when listing file shares with management plane cmdlet 
     - `Get-AzRmStorageShare`
 

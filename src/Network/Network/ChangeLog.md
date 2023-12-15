@@ -19,6 +19,8 @@
 --->
 
 ## Upcoming Release
+
+## Version 7.2.0
 * Fixed a few minor issues
 * Fixed missing properties in PSBackendAddressPool
 
